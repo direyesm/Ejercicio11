@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="txtIng">Ingresa algo</string>
+    <string name="txtbox"></string>
+    <string name="buttonMost">Mostrar</string>
+    <string name="txt2"></string>
+</resources>
